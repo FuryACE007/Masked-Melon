@@ -6,8 +6,8 @@
 
 *Co-developers*
 
-Kumar Harsh: github.com/harsh-mr
-Shreya Narayan: github.com/Shreya23-tech
+Kumar Harsh: https://github.com/harsh-mr
+Shreya Narayan: https://github.com/Shreya23-tech
 
 *CONTRACT ADDRESSES*
 
