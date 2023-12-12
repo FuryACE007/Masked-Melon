@@ -4,6 +4,11 @@
 
 *Masked-Melon* serves as a confidential payments protocol enabling you to receive funds without disclosing your cryptocurrency wallet address. When someone wishes to make a payment, you can generate a unique payment link that conceals your wallet address, safeguarding your on-chain history privacy. The sender remains unaware of your financial details and the amusing NFTs you may possess.
 
+*Co-developers*
+
+Kumar Harsh: github.com/harsh-mr
+Shreya Narayan: github.com/Shreya23-tech
+
 *CONTRACT ADDRESSES*
 
 TOKEN CONTRACT
